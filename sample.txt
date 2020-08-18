@@ -1,4 +1,4 @@
 sample text from PyCharm
 
 
-PyCharmで仮想環境作ったよ
+PyCharmで仮想環境作った
