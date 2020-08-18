@@ -3,4 +3,4 @@ sample text from PyCharm
 
 PyCharmで仮想環境作った
 
-リモーリポジトリへの
+リモーリポジトリへの反映はプッシュというらしい
