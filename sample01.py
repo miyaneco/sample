@@ -8,4 +8,7 @@ print('Tom')
 #わざとエラーを起こそう！
 #print('hello'
 #わざとエラー
+
 print('hello)
+#最後の綴じカッコが全角
+print('hello'）
