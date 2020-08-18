@@ -7,4 +7,5 @@ print('Tom')
 #SyntaxError　文法エラー　構文エラー
 #わざとエラーを起こそう！
 #print('hello'
-
+#わざとエラー
+print('hello)
