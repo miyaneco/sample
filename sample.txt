@@ -1,8 +1,0 @@
-sample text from PyCharm
-
-
-PyCharmで仮想環境作った
-
-リモーリポジトリへの反映はプッシュというらしい
-
-難しいですtestaaa
