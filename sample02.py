@@ -9,3 +9,8 @@ unit_price = 300
 quantity = 5
 total_price = unit_price * quantity
 print(total_price) #1500
+
+# わざとエラーのコーナー
+
+#NameError　定義してない
+print(age)
