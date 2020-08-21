@@ -1,6 +1,5 @@
-a, b = map(int,input(). split())
+n = int(input())
 
-if (a * b) % 2 == 0:
-    print("Even")
-else:
-    print("Odd")
+answer = n // 3
+
+print(answer)
