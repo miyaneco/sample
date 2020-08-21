@@ -1,8 +1,8 @@
-S = input()
+A, B = map(int,input(). split())
 
-if S == "Sunny":
-    print("Cloudy")
-elif S == "Cloudy":
-    print("Rainy")
+answer = A * B
+
+if A >= 10 or B >= 10:
+    print("-1")
 else:
-    print("Sunny")
+    print(answer)
