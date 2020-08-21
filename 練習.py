@@ -1,5 +1,6 @@
-A, B = map(int,input(). split())
+S = input()
 
-answer = A * B
-
-print(answer)
+if S == "ABC":
+    print("ARC")
+else:
+    print("ABC")
