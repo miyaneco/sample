@@ -1,6 +1,7 @@
-S = input()
+a = int(input())
+s =input()
 
-if S == "ABC":
-    print("ARC")
+if a >= 3200:
+    print("%s" %s)
 else:
-    print("ABC")
+    print("red")
