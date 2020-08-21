@@ -1,5 +1,6 @@
 n = int(input())
 
-answer = n // 3
-
-print(answer)
+if n >= 1000:
+    print("ABD")
+else:
+    print("ABC")
