@@ -1,6 +1,8 @@
-n = int(input())
+S = input()
 
-if n >= 1000:
-    print("ABD")
+if S == "Sunny":
+    print("Cloudy")
+elif S == "Cloudy":
+    print("Rainy")
 else:
-    print("ABC")
+    print("Sunny")
