@@ -1,10 +1,7 @@
-b = input()
+N = int(input())
+x = N * 800
+y = (N // 15) * 200
 
-if b == "A":
-    print("T")
-elif b == "T":
-    print("A")
-elif b == "C":
-    print("G")
-else:
-    print("C")
+answer = x - y
+
+print(answer)
