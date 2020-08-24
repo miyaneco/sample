@@ -1,7 +1,10 @@
-a = int(input())
-s =input()
+b = input()
 
-if a >= 3200:
-    print("%s" %s)
+if b == "A":
+    print("T")
+elif b == "T":
+    print("A")
+elif b == "C":
+    print("G")
 else:
-    print("red")
+    print("C")
